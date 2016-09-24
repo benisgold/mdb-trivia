@@ -20,8 +20,8 @@ class StatisticViewController: UIViewController {
     var gender: UInt32!
     var seconds: Int!
     var buttonNames: [String]!
-    var recentNames: [String]!
     var imageName: String!
+    var recentNames: [String]!
     
     @IBOutlet weak var streakNum: UILabel!
     @IBOutlet weak var image1: UIImageView!
